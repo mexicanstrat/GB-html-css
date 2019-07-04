@@ -1,2 +1,2 @@
-# Homepage.github.io
+# Homepage
 Мой первый хостинг
