@@ -1,2 +1,2 @@
-# GB-html-css
+# Homepage.github.io
 Мой первый хостинг
